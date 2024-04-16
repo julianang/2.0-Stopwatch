@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>Stopwatch</title>
+</head>
+<body>
+  <main class="container">
+    <h1 class="title" title="Cronômetro">STOPWATCH</h1>
+    <div class="timer">
+      <div class="main-box">
+        <h2 class="time" id="hours" title="Horas">00</h2>
+        <h2 class="separator">:</h2>
+        <h2 class="time" id="minutes" title="Minutos">00</h2>
+        <h2 class="separator">:</h2>
+        <h2 class="time" id="seconds" title="Segundos">00</h2>
+      </div>
+      <div class="milliseconds-box">
+        <h3 id="milliseconds" title="Milisegundos">000</h3>
+      </div>
+    </div>
+
+        <div class="buttons">
+            <button class="btn" id="start" title="start">Start</button>
+            <button class="btn" id="pause" title="Pause">Pause</button>
+            <button class="btn" id="resume" title="Resume">Resume</button>
+            <button class="btn" id="reset" title="Reset">Reset</button>
+          </div>
+
+    </main>
+
+    
+</body>
+<script src="./script.js"></script>
+</html>
