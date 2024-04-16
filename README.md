@@ -10,4 +10,4 @@ For added convenience, Stopwatch Master is accessible on any device, whether you
 
 Whether you're a fitness enthusiast, athlete, teacher, or professional, Stopwatch Master is the ultimate tool for precision timing. Join thousands of satisfied users and experience effortless timekeeping with Stopwatch Master today!</p>
 
-<image src="[![image](https://github.com/julianang/2.0-Stopwatch/assets/156000408/5ec9fb87-8302-4f13-9630-f2822347f20e)](https://github.com/julianang/2.0-Stopwatch/blob/master/assets/5D690563-0BA9-427E-9905-65ADE6F17CA5.PNG?raw=true)"/> 
+<image src="https://github.com/julianang/2.0-Stopwatch/blob/master/assets/5D690563-0BA9-427E-9905-65ADE6F17CA5.PNG?raw=true">
